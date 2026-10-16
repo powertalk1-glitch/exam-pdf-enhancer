@@ -1,0 +1,8 @@
+node_modules/
+dist/
+public/cmaps/
+public/standard_fonts/
+public/wasm/
+test-results/
+*.pdf
+.env
